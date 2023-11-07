@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitedExceptions", "AwaitedExceptions\AwaitedExceptions.csproj", "{31C2196F-EEB8-45BA-A664-F030876EB184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitedExceptions.Tests.Unit", "AwaitedExceptions.Tests.Unit\AwaitedExceptions.Tests.Unit.csproj", "{05F7797A-932F-4E1D-AFF0-C798D3200105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C2196F-EEB8-45BA-A664-F030876EB184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C2196F-EEB8-45BA-A664-F030876EB184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C2196F-EEB8-45BA-A664-F030876EB184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C2196F-EEB8-45BA-A664-F030876EB184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F7797A-932F-4E1D-AFF0-C798D3200105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F7797A-932F-4E1D-AFF0-C798D3200105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F7797A-932F-4E1D-AFF0-C798D3200105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F7797A-932F-4E1D-AFF0-C798D3200105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
